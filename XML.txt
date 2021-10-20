@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+	<film>
+		<name>Titaniс</name>
+		<release date>1997</release dat>
+		<genre>drama</genre>
+	</film>
+	<film>
+		<name>The Fast and the Furious</name>
+		<release date>2001</release date>
+		<genre>thriller</genre>
+	</film>
+	<film>
+		<name>The Matrix</name>
+		<release date>1999</release date>
+		<genre>fantastic</genre>
+	</film>
+	<film>
+		<name>Home Alone</name>
+		<release date>1990</release date>
+		<genre>comedy</genre>
+	</film>
+	<film>
+		<name>Kill Bill</name>
+		<release date>2003</release date>
+		<genre>crime</genre>
+	</film>
+</films>
